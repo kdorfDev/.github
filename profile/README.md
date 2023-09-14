@@ -5,6 +5,4 @@
 
 ## Idea
 
-Project Botrus is an IaaS (Infrastructure as a Service) / PaaS (Platform as a Service) platform for managing and deploying web applications with a unified API and web interface.
-
-All web applications are deployed as containers and are managed by our own Kubernetes clusters.
+Project Botrus is an IaaS (Infrastructure as a Service) for managing your taks and calendars.
